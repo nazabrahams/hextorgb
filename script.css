@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: purple;
+}
+
+.container{
+    max-width: 500px;
+    margin: auto;
+    justify-content: center;
+    align-items: center; 
+}
+
+h1{
+    margin: 0;
+    display:flex;
+    justify-content: center;
+    align-content: center; 
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+
+input{
+    box-sizing: border-box;
+    box-shadow: inset;
+}
+
